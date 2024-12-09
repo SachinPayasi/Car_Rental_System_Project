@@ -395,7 +395,7 @@ public class Main {
 	        Car car8 = new Car("C008", "Hyundai", "Creta",800.0);
 	        Car car9 = new Car("C009","Toyota","Fortuner",2000.0);
 	        Car car10 = new Car("C010", "Tata", "Nexon",1300.0);
-	       // Car car11 = new Car("C011", null, null, 0)
+	     
 	        		
 	       //Adding Car Object in Car Rental System;
 	        rentalSystem.addCar(car1);
